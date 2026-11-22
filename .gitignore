@@ -62,3 +62,4 @@ Desktop.ini
 
 # Local configuration
 .python-version
+.dist/
